@@ -1,4 +1,4 @@
-# webtime-tracker
+NotifiCATion
 Fork of @petasittek's Webtime Tracker for Chrome https://chrome.google.com/webstore/detail/webtime-tracker/ppaojnbmmaigjmlpjaldnkgnklhicppk, we have enabled the extension to show cats after a set time of unproductivity to obstruct user's view.
 
 To use it, 
